@@ -1,0 +1,4 @@
+https://towardsdatascience.com/implement-policy-iteration-in-python-a-minimal-working-example-6bf6cc156ca9
+http://incompleteideas.net/book/RLbook2020.pdf
+https://www.coin-or.org/PuLP/index.html,
+https://stackoverflow.com/questions/64005808/pulp-solvers-python-3-8-spyder-4
